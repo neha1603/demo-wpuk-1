@@ -1,0 +1,25 @@
+full-name: Neha Satsangi
+nickname: Neha
+worldpay:
+  email: neha.satsangi@worldpay.com
+  transport: public
+  platform: IDC Servers
+  department: IDC
+languages:
+  - English
+  - Hindi
+favourites:
+  food: Chilli
+  technology: Java
+  web-sites:
+    - https://github.com/neha1603
+skills:
+  - java
+  - docker
+  - ansible
+  - jenkins
+  - dumb charades
+interests:
+  - movies
+  - solving puzzles
+greeting: namaste!
